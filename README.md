@@ -1,4 +1,4 @@
-👋 Hi, I’m @petekharun
+👋 Hi there
 - 🌱 I’m currently learning Django
 - 👯  I’m looking to collaborate on Python projects
 - 💬 Ask me about Python
