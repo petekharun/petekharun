@@ -2,6 +2,8 @@
 - 🌱 I’m currently learning Django
 - 👯  I’m looking to collaborate on Python projects
 - 💬 Ask me about Python
+- ✨ Cant'talk backend only
+
 
 <!---
 petekharun/petekharun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
