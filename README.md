@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Django
 - 👯  I’m looking to collaborate on Python projects
 - 💬 Ask me about Python
-- ✨ Cant'talk backend only
+<!--- ✨ Cant'talk backend only
 
 
 <!---
