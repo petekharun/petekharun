@@ -1,5 +1,5 @@
 👋 Hi there
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning Django and SwiftUI
 - 👯  I’m looking to collaborate on Python projects
 - 💬 Ask me about Python
 <!--- ✨ Cant'talk backend only
